@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<!--Good Try, Don't copy the Code. It's called plagerism. ): -->
+    
+<head>
+ 
+<title>Tech Kube</title>
+ 
+<link rel="shortcut icon" href="https://i.imgur.com/N9TKbHm.png" type="image/jpg">
+
+<style>
+
+.background{
+    
+background-color:black;    
+    
+}
+
+.techkube{
+    
+color: #fff;
+font-family: Courier New;
+font-size: 300;
+background-color: #232222;
+text-align: center;
+    
+}
+
+.macmini{
+
+display: block;    
+margin-right: auto;
+margin-left: auto; 
+    
+}
+
+.topic{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+font-size: 70;
+    
+}
+
+.publisher{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+    
+}
+
+.macminititle{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+font-size: 50;
+    
+}
+
+.macminiparagraph{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;  
+    
+}
+
+a{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;  
+    
+}
+
+.applelogo{
+    
+display: block;    
+margin-right: auto;
+margin-left: auto;  
+    
+}
+
+.macpro{
+    
+display: block;
+margin-right: auto; 
+margin-left: auto;
+
+}
+
+.macprotitle{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+font-size: 50;    
+    
+}
+
+.macproparagraph{
+
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+
+}
+
+.macbookair{
+    
+display: block;
+margin-right: auto; 
+margin-left: auto;    
+    
+}
+
+.macbookairtitle{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+font-size: 50;      
+    
+}
+
+.macbookairparagraph{
+    
+color: white;
+text-align: center;
+font-family: Sans-Serif;
+
+
+}
+
+.logo{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.macprotitlevid{
+
+
+color: white;
+text-align: left;
+font-family: Sans-Serif;
+
+}
+
+.links{
+
+text-align: center;
+}
+
+.zun{
+
+color: white;
+font-family:Courier New; 
+text-align: right;
+
+}
+
+</style>
+
+</head>
+
+<body class="background">
+
+<div>
+  
+<img class="logo" src="https://i.imgur.com/N9TKbHm.png" height="163">
+
+<h1 class="techkube">Tech Kube</h1>
+
+<h5 class="zun">Created By Zun.</h5>
+
+<nav>
+<a href="/html/"> <b>Blogs</b> </a>
+<a href="/css/"> <b>Reviews</b> </a> 
+<a href="/js/"> <b>About Us</b> </a> 
+<a href="/jquery/"> <b>Contact Us</b> </a>
+</nav>
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+
+<img class="applelogo" src="https://purepng.com/public/uploads/large/21502362885rmhziap3wm5w0jogfdubr1fgyzuycu5rqkam39wjhh7yhmcncxka3vxq3xglitq4iwze8v0gpi1wmolyrtqkts57kit8ibyd2apb.png" height="250">
+
+<h1 class="topic">Is Apple Worth it in 2018?</h1>
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<div>
+
+<img class="macmini" src="https://ipowerresale.com/wp-content/uploads/2017/06/mac-mininosd.png">
+
+<h2 class="macminititle">MacBook Pro</h2>
+
+<p class="macminiparagraph">I have been on the lookout for a used Mini / Micro PC with a i5 / i7, to be configured as a Home Centre PC. (File server, print server, media center etc.)
+My idea was to configure everything and hide away the PC on top of book shelf, connected to a LED TV and wireless keyboard + mouse. It would be always on.
+I looked at HP Elitedesk / Prodesk, Lenovo Thinkcenter Tiny, Dell Optiplex Mini and the Mac Mini - all of which are available in the ‘1 liter - 2 liter’ size range.
+Recently, I came across a used 2014 model Mac Mini. It was in great condition, a little more than a year old (Bought in Dec 2016) and being sold at around 30% of the current list price. (The 2014 model is still on sale from Apple as of Dec 2017)
+Only problem was that it was relatively ‘low spec’, with a i5 (ok), 4GB RAM (I wanted at least 8GB) and a 1TB HDD (I wanted a SSD).
+I did quite a lot of research on the feasibility of buying this machine and upgrading it myself - i.e. adding more RAM and a SSD.
+But alas, while the HP / Dell / Lenovo machines are designed to make upgrades or DIY easy (Tool-less design), the Mac Mini is purpose designed to make it absolutely anti-DIY.
+RAM is soldered to the mother board, removing the SSD requires specialised tools and an elaborate process with the risk of damaging something. In fact the iFixit website lists around 32 different steps (some with specialised tools) to replace the HDD in a Mini.
+Bottom line : the 2014 Mac Mini comes with built-in obsolescence. Once you buy, it becomes obsolete pretty soon, with no / un-friendly upgrade options.
+In fact the older 2012 Mac Mini are more practical since it is easier to plug in more RAM into them.
+Considering the price point, the features, the fact that you need to buy all essential accessories (keyboard, mouse, monitor) additionally to make the Mac Mini into a usable PC, it is easier to just buy Macbook and connect it to an external monitor if you need a big monitor.
+Also, if you manage to break something while DIYing your machine, a HP/Dell/Lenovo is cheaper to fix than the Mac Mini.</p>
+
+<a href="https://www.quora.com/Is-it-worth-buying-a-Mac-mini" target="_blank"><strong>Quora</strong></a>
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div>
+
+<img class="macpro" src="https://static1.squarespace.com/static/5241e1d4e4b0cb8af94479c8/t/527578e7e4b02f841cc2a148/1383430400145/MACPRO.png">
+
+<h2 class="macprotitle">Mac Pro</h2>
+
+<p class="macproparagraph">Executive summary: If you're not sure if the new Mac Pro is worth buying, then then answer for you is almost certainly no, it's not worth it.
+The vast majority of Mac users would be better served with an iMac or MacBook Pro.
+It does make sense for a small minority of users; whether or not that includes you depends on your intended use. 
+In theory it can be much faster than a top-of-the-line iMac, but having lots of cores only really helps if you can take advantage of them.
+Some (but not most) Mac software is multi-threaded, and designed to spread it's work across multiple CPU cores.
+Apple's Xcode development tools are probably the best example of a well-designed multithreaded app, in that it's speed scales directly with the number of cores. (Builds happen twice as fast with 12 cores as compared to 6, for example.)
+Apple's pro apps, like Final Cut Pro and Logic Pro are also great at taking advantage of multicore processors.
+Other Apple apps (Mail, Safari) are multi-threaded, but they aren't CPU intensive, so there's not much benefit there.
+But even if your software is mostly designed to run on only a single core, you can still benefit from a multicore Mac if you run multiple apps, because OS X will assign different cores to different apps. Still, even this benefit only makes a difference if you start some major task in one app, and that task will keep running while you switch to a different app.
+I happen to have 10 apps open right now, but 9 of them are doing nothing. For my use, it would be a waste of money.</p>
+
+<a href="https://www.quora.com/What-is-Apples-Mac-Pro" target="_blank"><strong>Quora</strong></a>
+
+<br>
+<br>
+<br>
+
+<h2 class="macprotitlevid" >Watch A short Video About the Mac Pro</h2>
+
+<video src="macpro.mp4" controls width="540" height="320" poster="">
+	<embed src="macpro.mp4" autostart="false" width="540" height="320"></embed>
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div>
+    
+<img class="macbookair" src="http://www.shopiqube.com/image/cache/data/Products/Mac/macbookair13-500x320.png">   
+    
+<h2 class="macbookairtitle" >MacBook Air</h2>    
+    
+<p class="macbookairparagraph" >The MBA vs an alternative is really a question of preference, not of superiority. You can go back and forth, Yoga 3 vs MBA (yes, I'm picking on the Yoga 3) and there are wins on both sides of the fence. I mean, can you use your Macbook Air as a touch screen tablet? No, you can't. Oh, but wait, a fully loaded Macbook air is cheaper than a Yoga 3 Pro... and round and round we go. 
+I like the Yoga 3. It runs full up windows and that makes it play nice in my cozy little windows network and windows centric world. I like touch screens. If I was in the market for an ultra portable, I'd buy a Yoga 3 Pro before I'd buy a Mac Book Air. I use software that actually doesn't allow you to scale windows below 800 pixels tall and the MBA's low resolution is a genuine deal breaker for that software. 
+Does that mean you should rush out to buy a Yoga 3 Pro instead of a MacBook Air? 
+No, it doesn't. Many of the advantages of the Yoga 3 may be frittered away by the next generation of Macbook Air, and honestly, if you like Macs then you should buy a Mac! They're good products if they fit your specific needs. If you like it, buy one. If you don't, there are alternatives available that offer different advantages with different trade offs. I have owned several computers in the past, including some laptops (all PCs). I bought a MacBook air, 2008 version, and this was my first Mac computer. 
+This was a used, 4 year old laptop that I wanted just to try  Xcode, even knowing it would be kind of slow. 
+From a product form point of view, I consider any MacBook Air version the best laptop available, and one should only choose another if a) doesn't have enough budget,  b) needs more horsepower. 
+In 2012 - I think the current MBA version was mid 2011 - I was so impressed with the old 2008 MBA, that I decided to get rid of every computer in the house to buy a new 13 inch MBA and a thunderbolt monitor. 
+Best decision ever. It wasn't perfect performance wise though. I use Lightroom, Photoshop and some other stuff that would lag, including virtualizing Windows 7 with parallels. It wasn't that it didn't cope, it just felt lagging from time to time, when pushing it. </p>    
+    
+<a href="https://www.quora.com/Is-Apples-MacBook-Air-worth-buying" target="_blank"><strong>Quora<strong></a>    
+    
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<address class="links">
+<a href="mailto:createzun@gmail.com" target="_blank">Email Zun</a>dfffdfdf
+<a href="https://zuncreate06.github.io/zuncreatefinal/" target="_blank">Zun's Website</a>dfffdfdf
+<a href="https://kaicorston13.wixsite.com/kaicorston" target="_blank">Kai's Website</a>dfffdfdf
+<a href="https://sammueh.wixsite.com/sammueh" target="_blank">Samuel's Website</a>dfffdfdf
+</address>
+
+</body>
+
+</html>
+
